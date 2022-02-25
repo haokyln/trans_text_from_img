@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Src_code"/>
+	<classpathentry kind="lib" path="MarryTTS_VoiceRecognition/marytts-builder-5.2-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="MarryTTS_VoiceRecognition/marytts-lang-en-5.2.jar"/>
+	<classpathentry kind="lib" path="MarryTTS_VoiceRecognition/voice-cmu-rms-hsmm-5.2.jar"/>
+	<classpathentry kind="lib" path="MarryTTS_VoiceRecognition/voice-cmu-slt-hsmm-5.2.jar"/>
+	<classpathentry kind="lib" path="MarryTTS_VoiceRecognition/voice-dfki-poppy-hsmm-5.2.jar"/>
+	<classpathentry kind="lib" path="Tess4J/library/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="Tess4J/library/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="Tess4J/library/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="Tess4J/library/fontbox-2.0.9.jar"/>
+	<classpathentry kind="lib" path="Tess4J/library/ghost4j-1.0.1.jar"/>
+	<classpathentry kind="lib" path="Tess4J/library/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="Tess4J/library/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="Tess4J/library/jai-imageio-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="Tess4J/library/jbig2-imageio-3.0.0.jar"/>
+	<classpathentry kind="lib" path="Tess4J/library/jboss-vfs-3.2.12.Final.jar"/>
+	<classpathentry kind="lib" path="Tess4J/library/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="Tess4J/library/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="Tess4J/library/jul-to-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="Tess4J/library/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="Tess4J/library/lept4j-1.6.4.jar"/>
+	<classpathentry kind="lib" path="Tess4J/library/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="Tess4J/library/log4j-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="Tess4J/library/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="Tess4J/library/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="Tess4J/library/nblibraries.properties"/>
+	<classpathentry kind="lib" path="Tess4J/library/pdfbox-2.0.9.jar"/>
+	<classpathentry kind="lib" path="Tess4J/library/pdfbox-tools-2.0.9.jar"/>
+	<classpathentry kind="lib" path="Tess4J/library/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="Tess4J/library/xmlgraphics-commons-1.5.jar"/>
+	<classpathentry kind="lib" path="Tess4J/dist-SetupEnvironment_RemindQuoc/tess4j-3.4.8.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
